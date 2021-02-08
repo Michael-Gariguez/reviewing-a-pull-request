@@ -1,4 +1,4 @@
-## You can play the game at: https://Michael-Gariguez.github.io/github-games/
+## You can play the game at: https://michael-gariguez.github.io/reviewing-a-pull-request/
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
